@@ -1,0 +1,6 @@
+github.com/dustin/go-humanize v0.0.0-20180421182945-02af3965c54e/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
+github.com/mattn/go-runewidth v0.0.2/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
+github.com/olekukonko/tablewriter v0.0.0-20180506121414-d4647c9c7a84/go.mod h1:vsDQFd/mU46D+Z4whnwzcISnGGzXWMclvtLoiIKAKIo=
+github.com/robtec/newsapi v0.0.0-20180922142248-e986ded8a669 h1:hPVSUPYIuYi0Chj7rkiyZP+gHHGg+/c6Wf7g4GUbX3s=
+github.com/robtec/newsapi v0.0.0-20180922142248-e986ded8a669/go.mod h1:k68N+AE2TnjEw0EV8vQrhRbo3kBJdIRaZTUHx3dnaUk=
+github.com/urfave/cli v1.20.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
